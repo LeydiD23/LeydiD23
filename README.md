@@ -7,6 +7,10 @@ Me gusta transformar ideas en proyectos funcionales y creativos, aplicando buena
 
 ---
 
+I am passionate about software development and the creation of modern websites.
+I enjoy transforming ideas into functional and creative projects, applying best practices and always keeping the curiosity to keep learning. 🚀
+---
+
 ## 🚀 Skills principales  
 
 - 🖥️ **Lenguajes:** C++, Python,Java, JavaScript, SQL  
