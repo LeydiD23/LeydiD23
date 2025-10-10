@@ -13,9 +13,8 @@ I enjoy transforming ideas into functional and creative projects, applying best 
 
 ## 🚀 Skills principales  
 
-- 🖥️ **Lenguajes:** C++, Python,Java, JavaScript, SQL  
+- 🖥️ **Lenguajes:** C++, Python, JavaScript, SQL  
 - 🌐 **Frontend:** HTML5, CSS3  
-- ⚙️ **Backend:** Java (Swing)  
 - 🗄️ **Bases de datos:** SQL Server, MySQL  
 - 📦 **Herramientas:** Git, GitHub, VS Code  
 - 🎨 **Otros:** Diseño básico UI/UX, documentación en Word/PDF  
