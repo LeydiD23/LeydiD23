@@ -38,5 +38,12 @@ I enjoy transforming ideas into functional and creative projects, applying best 
 > ## 📫 Conéctate conmigo 
 > - [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:leidymasieldiaz@gmail.com)  
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
 ✨ *“El código es mi idioma para darle vida a las ideas”* ✨
