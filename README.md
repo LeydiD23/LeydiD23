@@ -1,69 +1,42 @@
-# 👋 Hola, soy Leydi Massiel
+# 👋 ¡Hola! Soy Leydi Massiel
 
-## 💻 Tecnóloga en Desarrollo de Software | 🌐 Desarrolladora Web
+### 💻 Tecnóloga en Desarrollo de Software | 🌐 Desarrolladora Web
 
-Soy una desarrolladora apasionada por el desarrollo de software y la creación de websites modernos. Disfruto transformando ideas en proyectos funcionales y creativos, aplicando buenas prácticas y manteniendo siempre la curiosidad por aprender tecnologías emergentes.
+Soy apasionada por el **desarrollo de software** y la **creación de websites modernos**.  
+Me gusta transformar ideas en proyectos funcionales y creativos, aplicando buenas prácticas y manteniendo siempre la curiosidad por aprender más. 🚀  
 
-> "El código es mi idioma para darle vida a las ideas"
+--- 
 
-## 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Figma](https://skillicons.dev/icons?i=figma)
-
-</div>
-
-### Lenguajes de Programación
-- JavaScript
-- Python
-- C++
-- SQL
-
-### Desarrollo Web
-- HTML5
-- CSS3
-
-### Bases de Datos
-- MySQL
-- SQL Server
-
-### Herramientas
-- Git
-- GitHub
-- VS Code
-- Figma
-- Diseño UI/UX básico
-
-## 🎯 Objetivos Actuales
-
-- Profundizando en arquitecturas modernas y patrones de diseño
-- Explorando frameworks frontend y mejores prácticas de desarrollo
-- Combinando creatividad y tecnología para construir experiencias digitales
-- Expandindo mi conocimiento en tecnologías emergentes
-
-## 🌟 Sobre Mí
-
-- Fanática de convertir café en código funcional
-- Apasionada por el diseño UI/UX y la experiencia de usuario
-- Comprometida con la documentación clara y organizada
-- Orientada a resultados y soluciones creativas
-- Siempre explorando nuevas tecnologías para crecer como desarrolladora
-
-## 📫 Contacto
-
-- **Email:** leidymasieldiaz@gmail.com
-- **GitHub:** [github.com/leydimassiel](https://github.com/leydimassiel)
+I am passionate about software development and the creation of modern websites.
+I enjoy transforming ideas into functional and creative projects, applying best practices and always keeping the curiosity to keep learning. 🚀
 
 ---
 
-"Cada línea de código es una oportunidad para crear algo extraordinario"
+<details>  
+ <summary><h2>Tools & Technologies</h2></summary>
+
+![Skills](https://skillicons.dev/icons?i=js,python,cpp,html,css,mysql,github,vscode,figma,git)
+</details> 
+
+- 🖥️ **Lenguajes:** C++, Python,Java, JavaScript, SQL  
+- 🌐 **Frontend:** HTML5, CSS3  
+- ⚙️ **Backend:** Java (Swing)  
+- 🗄️ **Bases de datos:** SQL Server, MySQL  
+- 📦 **Herramientas:** Git, GitHub, VS Code  
+- 🎨 **Otros:** Diseño básico UI/UX, documentación en Word/PDF  
+
+
+
+> [!NOTE]
+> - 🔭 Actualmente aprendiendo más sobre **arquitecturas modernas y patrones de diseño**.   
+> - ✨ Me encanta combinar **creatividad** y **tecnología** para construir experiencias digitales.  
+> - 📚 Siempre explorando nuevas tecnologías para crecer como desarrolladora.
+> - 💻 Tengo conocimiento en montaje de circuitos electronicos.
+
+
+> [!IMPORTANT]
+> ## 📫 Conéctate conmigo 
+> - [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:leidymasieldiaz@gmail.com)  
+
+---
+✨ *“El código es mi idioma para darle vida a las ideas”* ✨
