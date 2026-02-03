@@ -18,7 +18,7 @@ I enjoy transforming ideas into functional and creative projects, applying best 
 ![Skills](https://skillicons.dev/icons?i=js,python,cpp,html,css,mysql,github,vscode,figma,git)
 </details> 
 
-- 🖥️ **Lenguajes:** C++, Python,Java, JavaScript, SQL  
+- 🖥️ **Lenguajes:** C++, Python,, JavaScript, SQL  
 - 🌐 **Frontend:** HTML5, CSS3  
 - 🗄️ **Bases de datos:** SQL Server, MySQL  
 - 📦 **Herramientas:** Git, GitHub, VS Code  
